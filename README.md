@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Johann<br>👀 I’m interested in Coding<br>💻 I program with Java and JavaScript<br>🌱 I’m currently learning Frontend<br>🍩 Fun fact: I love Donuts
+👋 Hi, I’m Johann<br>👀 I’m interested in Coding<br>💻 I program with Java and JavaScript<br>🌱 I’m currently learning SQL<br>🍩 Fun fact: I love Donuts
 
 
 # 💻 Tech Stack:
